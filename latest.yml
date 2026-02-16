@@ -1,8 +1,17 @@
-version: 1.1.6
+version: 1.2.0
 files:
-  - url: CST-App-Setup-1.1.6.exe
-    sha512: w+2PRLZf5EN69BokZExI5ZVLs2lyf+tSmKsHTW3NHCW3G8fsK+WlCJePx5iN53oP5FJPEiD6E9UanJ/aMFfYJA==
-    size: 210974425
-path: CST-App-Setup-1.1.6.exe
-sha512: w+2PRLZf5EN69BokZExI5ZVLs2lyf+tSmKsHTW3NHCW3G8fsK+WlCJePx5iN53oP5FJPEiD6E9UanJ/aMFfYJA==
-releaseDate: '2026-02-14T22:46:15.939Z'
+  - url: CST-App-Setup-1.2.0-ia32.exe
+    sha512: k9dK710r05Oe3zqueyLw+od7OG7IMQ7uuC4lys4HyckwbpbkycPa5cpemvoEpFV5FaZhx0Zq/o2ly6s/mRm8Dg==
+    size: 205207864
+  - url: CST-App-Setup-1.2.0-arm64.exe
+    sha512: rpcCgtjBhn01yy3wO/WTgCHXbt4qRZArDgB1MB8Pfkkuduykz0gXdIIudBebxR8jkWDFY0EbZ3QyOlovCT7rHQ==
+    size: 220323451
+  - url: CST-App-Setup-1.2.0-x64.exe
+    sha512: phpJBHIWnzzCbiK8QZta3XYU//lWr9Fm3yDo6KRr3vN0Q6HtcgNf2TNm/R4DDGARYLlA69o+Vru9wQjqndjssg==
+    size: 217637739
+  - url: CST-App-Setup-1.2.0.exe
+    sha512: guATT/CUrIrDEUc9zMWu3xu9s67nmZih0bN73FfCi/KNvM7ZfG4r0CJJFRcfp9ZC5iTpThaV+ho5JPM4Y4hNVg==
+    size: 636649788
+path: CST-App-Setup-1.2.0-ia32.exe
+sha512: k9dK710r05Oe3zqueyLw+od7OG7IMQ7uuC4lys4HyckwbpbkycPa5cpemvoEpFV5FaZhx0Zq/o2ly6s/mRm8Dg==
+releaseDate: '2026-02-16T01:08:18.299Z'
